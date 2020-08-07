@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Some epic text here.
+"What goes around comes around." -God
 Use the left arrow to go back!
